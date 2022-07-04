@@ -24,4 +24,4 @@ app.MapRazorPages();
 
 app.Run();
 //test
-//master local change
+//master remote change
