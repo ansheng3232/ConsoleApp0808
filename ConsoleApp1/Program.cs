@@ -4,9 +4,3 @@ Console.WriteLine("Hello, World!");
 //789456
 //456123
 //0803
-//1234
-//123123
-//master123
-//111
-//mds
-//132
