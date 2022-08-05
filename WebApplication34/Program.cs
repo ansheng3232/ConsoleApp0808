@@ -21,7 +21,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
-
+123
 app.Run();
 //test
 //master remote change
